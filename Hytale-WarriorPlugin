@@ -1,0 +1,19 @@
+Hytale-WarriorPlugin/
+├─ .github/
+│  └─ workflows/
+│      └─ build.yml         # GitHub Actions build config
+├─ build.gradle
+├─ settings.gradle
+├─ src/
+│  ├─ main/
+│  │  ├─ java/
+│  │  │  └─ com/yourname/hytale/
+│  │  │     ├─ WarriorPlugin.java
+│  │  │     ├─ PlayerData.java
+│  │  │     ├─ WarriorClass.java
+│  │  │     └─ AbilityHeroicLeap.java
+│  │  └─ resources/
+│  │        └─ plugin.json
+├─ libs/
+│  └─ hytale-api.jar        # Hytale API (not committed to GitHub)
+└─ README.md
