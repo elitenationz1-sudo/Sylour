@@ -1,0 +1,8 @@
+{
+  "name": "WarriorPlugin",
+  "version": "1.0.0",
+  "author": "YourName",
+  "description": "Adds a Warrior class with rage and Heroic Leap ability.",
+  "mainClass": "com.yourname.hytale.WarriorPlugin",
+  "minGameVersion": "0.64.0"
+}
